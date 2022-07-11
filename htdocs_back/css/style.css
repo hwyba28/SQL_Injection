@@ -1,0 +1,96 @@
+body  {
+background: #F4F4F4;
+margin: 0;
+}
+
+#container { 
+width: 780px;
+margin: 0 auto;
+background: white;
+}
+
+#header { 
+padding: 15px 0 5px 0px;
+} 
+
+#sidebar {
+float: left;
+width: 120px;
+height: 418px;
+padding: 30px 30px 0 25px;
+margin: 0 auto;
+background-color:#e0e0e0;
+}
+
+input[type=submit]:hover{
+ background-color:#383838;
+}
+input[type=submit]{cursor:pointer;
+width:107%; background-color:black; margin-top:7px;color:white;border-radius: 4px; padding:2px;}
+#menu {
+background-color: black; 
+padding: 6px 0 6px 40px;
+border-bottom:1px solid #383838;
+}
+
+input{width:100%;}
+
+
+#menu a {
+color: #c5d6db;
+text-decoration: none; 
+font-size: 14px; 
+font-family: "Arial Narrow", "Myriad Pro";
+}
+
+#menu a:hover {
+color: #ecf2f3;
+}
+/*메뉴바*/
+h1{font-size:14px;}
+
+span{font-size:14px;}
+
+
+
+#main { 
+margin: 0 0 0 200px;
+padding: 35px 40px 30px 0;
+color: #444444;
+font-family: "Georgia";
+font-size: 13px; 
+line-height: 18px;
+text-align: justify;
+} 
+
+#main a {
+color: #3b7687; 
+text-decoration: none;
+}
+
+#main a:hover {
+color: #444444;
+}
+
+#footer {
+padding: 6px 40px 6px 40px;
+background: lightgray; 
+font-family: "Lucida Sans Unicode";
+color: #444444;
+font-size: 11px;
+text-align: right;
+}
+
+#footer a {
+text-decoration: none; 
+color: #262626;
+}
+
+#footer a:hover {
+color: #666666;
+}
+
+.separator {
+font-size:11px;
+color:#FFFFFF;
+}
