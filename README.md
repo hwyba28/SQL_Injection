@@ -4,8 +4,7 @@ Detail : After simply building a website using PHP, XAMPP(Mysql, Apache).<br>
 2. Inject codes which can prevent SQL Injection -> When retrying, database cannot be hacked anymore.<br>
 Youtube : https://www.youtube.com/watch?v=cS8XnPe2dXw
 <br>
-<img width="1066" alt="image" src="https://user-images.githubusercontent.com/108180200/218956110-2394eb54-afb2-4be4-b17c-c49f2cd6d0bd.png">
-
+<img width="1077" alt="image" src="https://user-images.githubusercontent.com/108180200/218956600-dee85b71-30c0-44ae-b6e5-7d7b5fb09f5d.png">
 <br>
 
 # (KR) SQL_Injection Test Website(보안) - 개인 프로젝트<br>
